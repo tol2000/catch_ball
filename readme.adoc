@@ -1,0 +1,3 @@
+= Catch Ball :)
+
+This is my small game to little learn of pygame library
