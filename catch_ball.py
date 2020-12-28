@@ -27,7 +27,7 @@ class CatchBall:
 
         pygame.init()
 
-        self.FPS: int = 100
+        self.FPS: int = 30
         self.screen = pygame.display.set_mode((1200, 900))
 
         self.FRAMES_BETWEEN_BALLS = self.FPS / balls_per_second
