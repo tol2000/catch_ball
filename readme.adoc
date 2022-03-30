@@ -5,7 +5,7 @@ This is my small game to little learn of pygame library
 Created with help of lectures and practice of Timofei Khirianov:
 link:https://www.youtube.com/user/tkhirianov[]
 
-== Installation
+== Installation & run
 
 . Download or clone this repository
 . Check if you have python 3 installed or install it
