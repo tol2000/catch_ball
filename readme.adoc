@@ -11,4 +11,4 @@ link:https://www.youtube.com/user/tkhirianov[]
 . Check if you have python 3 installed or install it
 . Run this commands
   .. `python -m pip install -r requirements.txt`
-  .. 'python main.py'
+  .. `python main.py`
